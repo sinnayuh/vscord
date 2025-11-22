@@ -1,4 +1,4 @@
-import { defineConfig } from "tsup";
+import { defineConfig } from "tsdown";
 
 export default defineConfig({
     platform: "node",
@@ -6,6 +6,5 @@ export default defineConfig({
     format: "cjs",
     entry: ["src/extension.ts"],
     external: ["vscode"],
-    sourcemap: true,
     minify: true
 });

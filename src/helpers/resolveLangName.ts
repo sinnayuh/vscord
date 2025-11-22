@@ -33,7 +33,7 @@ export const resolveLangName = (document: TextDocument): string => {
         Object.keys(ADDITIONAL_FILE_MAPPING).find((extension) => fileExtensionEquals(filename, extension)) ??
         Object.keys(KNOWN_EXTENSIONS).find((extension) => fileExtensionEquals(filename, extension));
 
-    return typeof findKnownExtension === "string" ? findKnownExtension : findKnownExtension?.image ?? "text";
+    return typeof findKnownExtension === "string" ? findKnownExtension : (findKnownExtension?.image ?? "text");
 };
 
 export const getArticle = (word: string): string => {
