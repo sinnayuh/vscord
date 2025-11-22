@@ -35,6 +35,11 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      - name: Check
+        run: |
+          pnpm tsc --noEmit
+          pnpm lint
+
       - name: Build
         run: |
           pnpm package
