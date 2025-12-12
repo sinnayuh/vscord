@@ -36,7 +36,6 @@
         "onStartupFinished"
     ],
     "main": "dist/extension.js",
-    "type": "commonjs",
     "private": true,
     "icon": "assets/icon.png",
     "scripts": {
