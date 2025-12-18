@@ -404,7 +404,7 @@
                 "properties": {
                     "vscord.status.image.large.idle.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/idle-{app_id}.png",
+                        "default": "https://raw.githubusercontent.com/sinnayuh/vscord/main/assets/icons/idle-{app_id}.png",
                         "description": "The image url to use when idling"
                     },
                     "vscord.status.image.large.idle.text": {
@@ -414,7 +414,7 @@
                     },
                     "vscord.status.image.large.viewing.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/{lang}.png",
+                        "default": "https://raw.githubusercontent.com/sinnayuh/vscord/main/assets/icons/{lang}.png",
                         "description": "The image url to use when viewing a file."
                     },
                     "vscord.status.image.large.viewing.text": {
@@ -424,7 +424,7 @@
                     },
                     "vscord.status.image.large.editing.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/{lang}.png",
+                        "default": "https://raw.githubusercontent.com/sinnayuh/vscord/main/assets/icons/{lang}.png",
                         "description": "The image url to use when editing a file."
                     },
                     "vscord.status.image.large.editing.text": {
@@ -434,7 +434,7 @@
                     },
                     "vscord.status.image.large.debugging.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/debugging.png",
+                        "default": "https://raw.githubusercontent.com/sinnayuh/vscord/main/assets/icons/debugging.png",
                         "description": "The image url to use when debugging."
                     },
                     "vscord.status.image.large.debugging.text": {
@@ -444,7 +444,7 @@
                     },
                     "vscord.status.image.large.notInFile.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/idle-{app_id}.png",
+                        "default": "https://raw.githubusercontent.com/sinnayuh/vscord/main/assets/icons/idle-{app_id}.png",
                         "description": "The image url to use when you are not in a file."
                     },
                     "vscord.status.image.large.notInFile.text": {
@@ -454,7 +454,7 @@
                     },
                     "vscord.status.image.small.idle.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/idle.png",
+                        "default": "https://raw.githubusercontent.com/sinnayuh/vscord/main/assets/icons/idle.png",
                         "description": "The image url to use when idling."
                     },
                     "vscord.status.image.small.idle.text": {
@@ -464,7 +464,7 @@
                     },
                     "vscord.status.image.small.viewing.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/{app_id}.png",
+                        "default": "https://raw.githubusercontent.com/sinnayuh/vscord/main/assets/icons/{app_id}.png",
                         "description": "The image url to use when viewing a file."
                     },
                     "vscord.status.image.small.viewing.text": {
@@ -474,7 +474,7 @@
                     },
                     "vscord.status.image.small.editing.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/{app_id}.png",
+                        "default": "https://raw.githubusercontent.com/sinnayuh/vscord/main/assets/icons/{app_id}.png",
                         "description": "The image url to use when editing a file."
                     },
                     "vscord.status.image.small.editing.text": {
@@ -484,7 +484,7 @@
                     },
                     "vscord.status.image.small.debugging.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/debugging.png",
+                        "default": "https://raw.githubusercontent.com/sinnayuh/vscord/main/assets/icons/debugging.png",
                         "description": "The image url to use when debugging."
                     },
                     "vscord.status.image.small.debugging.text": {
@@ -494,7 +494,7 @@
                     },
                     "vscord.status.image.small.notInFile.key": {
                         "type": "string",
-                        "default": "https://raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/idle.png",
+                        "default": "https://raw.githubusercontent.com/sinnayuh/vscord/main/assets/icons/idle.png",
                         "description": "The image url to use when you are not in a file."
                     },
                     "vscord.status.image.small.notInFile.text": {
