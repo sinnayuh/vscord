@@ -1,6 +1,10 @@
 {
     "KNOWN_LANGUAGES": [
         {
+            "language": "angelscript",
+            "image": "angelscript"
+        },
+        {
             "language": "bat",
             "image": "bat"
         },
@@ -448,6 +452,9 @@
         "/\\.ahkl?$/": {
             "image": "ahk"
         },
+        "/\\.angelscript$|\\.as$/": {
+            "image": "angelscript"
+        },
         "/\\.applescript$/": {
             "image": "applescript"
         },
@@ -817,7 +824,7 @@
         "/\\.svg$/": {
             "image": "svg"
         },
-        "/\\.swf$|\\.as$|\\.jsfl$|\\.swc$/": {
+        "/\\.swf$|\\.jsfl$|\\.swc$/": {
             "image": "as"
         },
         "/\\.swift$/": {
